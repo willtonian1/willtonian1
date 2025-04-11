@@ -22,7 +22,4 @@
 
 ---
 
-## My Website
-![tomwilliamstech.com](https://tomwilliamstech.com/)
-
 Thanks!  
