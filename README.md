@@ -22,13 +22,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willtonian1&show_icons=true&theme=radical" alt="Willtonian's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willtonian1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 Thanks!  
