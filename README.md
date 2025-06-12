@@ -4,9 +4,7 @@
 ---
 
 ## 🚀 What I’m Working On
-- Arduino Darts
-- Naive Bayes Spam Filter
-- Personal Informatics App
+- Currently working on a private project for a startup!
   
 ---
 
