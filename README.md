@@ -3,11 +3,6 @@
 
 ---
 
-## 🚀 What I’m Working On
-- Currently working on a private project for a startup!
-  
----
-
 ## 🛠️ Tech Stack
 
 > All of my favourite languages:
