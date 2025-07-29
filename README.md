@@ -5,7 +5,7 @@
 
 ## 🛠️ Tech Stack
 
-> All of my favourite languages:
+> My favourite languages:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -15,4 +15,3 @@
 
 ---
 
-Thanks!  
